@@ -2,6 +2,9 @@
 
 #### **Análise Exploratória de Dados (EDA)**
 
+
+- [`Aula_Enem_2023`](https://github.com/milexias/repositorio-python/blob/main/Aula_Enem_2023.ipynb) - EDA com **Seaborn e Matplotlib**; Análise dos resultados e simulador de ingresso.
+
 - [`eda_plotly`](https://github.com/milexias/repositorio-python/blob/main/eda_plotly.ipynb) - EDA com **Plotly e Pandas**; Análise da personalidade dos clientes.
 
 - [`exploratoria_panda`](https://github.com/milexias/repositorio-python/blob/main/exploratoria_panda.ipynb) - EDA com **Pandas**; Análise de aluguéis no Rio de Janeiro.
